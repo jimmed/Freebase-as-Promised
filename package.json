@@ -1,0 +1,12 @@
+{
+  "name": "freebase-as-promised",
+  "version": "0.0.1",
+  "description": "Promisified version of freebase",
+  "main": "index.js",
+  "author": "Jim O'Brien",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.1.3",
+    "freebase": "^2.9.8"
+  }
+}
