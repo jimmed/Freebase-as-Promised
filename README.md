@@ -6,7 +6,7 @@ A [bluebird.js](https://github.com/petkaantonov/bluebird/) wrapper around [Freeb
 Usage
 =====
 
-All of the Freebase methods take the same signature, which is handy:
+All of the original Freebase methods take the same signature, which is handy:
 
     freebase.<method>(searchTerm, options, callback);
 
